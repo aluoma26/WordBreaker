@@ -1,0 +1,10 @@
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe.config
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\bin\Debug\WordBreaker.pdb
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.csproj.CoreCompileInputs.cache
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.exe
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.pdb
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.csproj.GenerateResource.Cache
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.WordBreaker.resources
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.Properties.Resources.resources
+C:\Users\LUOMADA\Desktop\LocalTools\WordBreaker\WordBreaker\obj\Debug\WordBreaker.csprojResolveAssemblyReference.cache
